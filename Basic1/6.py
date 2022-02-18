@@ -1,0 +1,5 @@
+x=raw_input("Enter the numbers seperated by commas : ")
+tuple=tuple(x.split(","))
+print(tuple)
+y=list(tuple)
+print(y)

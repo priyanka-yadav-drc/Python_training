@@ -1,0 +1,1 @@
+print(min.__doc__)
